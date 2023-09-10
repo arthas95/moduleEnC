@@ -1,0 +1,6 @@
+  float AirRectangle(float largeur, float hauteur){
+    
+        float surfaceRec = largeur * hauteur ;
+    
+        return surfaceRec ;
+        }
